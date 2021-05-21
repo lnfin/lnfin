@@ -1,8 +1,8 @@
 ### Hi! 👋
    I'm Infin.
    
-- 🔭 I’m currently working on REST API project
-- 🌱 I’m currently learning aiohttp and async
+- 🔭 I’m currently working on Django project
+- 🌱 I’m currently learning django and flask
 - 💬 Ask me about Python, CTF and Linux
 - 📫 How to reach me: dalmannikita@gmail.com
 - 😄 Pronouns: He/Him

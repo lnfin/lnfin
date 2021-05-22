@@ -1,6 +1,6 @@
  👋 | ⚡
 ------------ | -------------
-<samp>### Hi! 👋
+### Hi! 👋
    I'm Infin.
    
 - 🔭 I’m currently working on Django project
@@ -9,7 +9,7 @@
 - 📫 How to reach me: dalmannikita@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The moon has moonquakes
-   <samp>| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lnfin&show_icons=true&theme=dracula" /><p width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnfin&layout=compact&theme=dracula" /><p>
+   | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lnfin&show_icons=true&theme=dracula" /><p width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnfin&layout=compact&theme=dracula" /><p>
 
 - 
 <p><img src="https://codestats-readme.wegfan.cn/history-graph/infin?history_days=30&max_languages=15" /></p>

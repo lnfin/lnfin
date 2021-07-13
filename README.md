@@ -1,6 +1,6 @@
  👋 | ⚡
 ------------ | -------------
-<samp>Hi! I'm Infin. I’m currently working on Django project. I’m currently learning django and flask. Ask me about Python, CTF and Linux.</samp> | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lnfin&show_icons=true&theme=dracula" /><p width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnfin&layout=compact&theme=dracula" /><p>
+<samp>Hi! I'm Infin. I’m currently working on Computer Vision project. I’m currently learning torch and tf. Ask me about Python, CTF and Linux.</samp> | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lnfin&show_icons=true&theme=dracula" /><p width="100%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnfin&layout=compact&theme=dracula" /><p>
 
 
 <p align="center">
